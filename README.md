@@ -1,3 +1,5 @@
+Cloned from jwasham -- these are very comprehensive notes and ideas.
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
